@@ -384,7 +384,7 @@ button
   -webkit-box-shadow: 0 1px 4px 0 rgba(15, 15, 20, 0.1);
           box-shadow: 0 1px 4px 0 rgba(15, 15, 20, 0.1);
   color: #20202a;
-  background: #FFC107;
+  background: #00ffbb;
   letter-spacing: 1.5px;
   font-weight: 600;
   display: -webkit-inline-box;
@@ -1025,7 +1025,7 @@ info bar
   right: 5px;
   height: 15px;
   width: 15px;
-  background: #FFC107;
+  background: #49ff07;
   border-radius: 50%;
   z-index: 0;
   -webkit-transition: 0.4s ease-in-out;
@@ -1213,7 +1213,7 @@ info bar
   z-index: 999;
 }
 .art-info-bar .art-ls-social a {
-  color: #8c8c8e;
+  /* color: #8c8c8e; */
   -webkit-transition: 0.2s ease-in-out;
   transition: 0.2s ease-in-out;
 }

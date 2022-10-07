@@ -1,111 +1,111 @@
 
 .art-link.art-color-link {
-  color: #FFC107
+  color: #07ffea;
 }
 
 .art-link.art-color-link:hover {
-  color: #FFC107;
+  color: #07ffea;
 }
 .art-btn {
   background: #200948;
 }
 
 blockquote {
-  background: #FFC107;
+  background: #07ffea;
 }
 
 .art-custom-list li:before {
-  border: solid 2px #FFC107;
+  border: solid 2px #07ffea;
 }
 
 .art-info-bar .art-header .art-avatar .art-lamp-light .art-available-lamp {
-  background: #FFC107;
+  background: #07ffea;
 }
 
 .art-info-bar .art-name:hover a {
-  color: #FFC107
+  color: #07ffea
 }
 
 .art-info-bar .art-knowledge-list li:before {
-  color: #FFC107;
+  color: #07ffea;
 }
 
 .art-menu-bar .art-language-change li.art-active-lang {
-  background-color: #FFC107;
+  background-color: #07ffea;
 }
 
 .art-code i {
-  color: #FFC107
+  color: #07ffea
 }
 
 .art-counter-frame .art-counter-box .art-counter {
-  color: #FFC107;
+  color: #07ffea;
 }
 
 .art-counter-frame .art-counter-box .art-counter-plus {
-  color: #FFC107;
+  color: #07ffea;
 }
 
 .art-price.art-popular-price:before {
-  background: #FFC107
+  background: #07ffea
 }
 
 .art-price .art-price-body .art-price-cost .art-number {
-  color: #FFC107;
+  color: #07ffea;
 }
 
 .art-price .art-price-body .art-price-list li:before {
-  color: #FFC107
+  color: #07ffea
 }
 
 .art-price .art-price-body .art-price-list li.art-empty-item:before {
-  color: #FFC107
+  color: #07ffea
 }
 
 .art-testimonial .art-testimonial-footer .art-star-rate {
-  color: #FFC107
+  color: #07ffea
 }
 
 .art-slider-navigation .swiper-pagination-bullet.swiper-pagination-bullet-active {
-  background-color: #FFC107;
+  background-color: #07ffea;
 }
 
 .fancybox-progress {
-  background: #FFC107;
+  background: #07ffea;
 }
 
 .fancybox-thumbs__list a:before {
-  border-color: #FFC107;
+  border-color: #07ffea;
 }
 
 .art-timeline .art-timeline-item .art-timeline-mark {
-  border: solid 3px #FFC107;
+  border: solid 3px #07ffea;
 }
 
 .art-form-field textarea.art-active {
-  border-color: #FFC107
+  border-color: #07ffea
 }
 
 .art-form-field textarea:focus {
-  border-color: #FFC107
+  border-color: #07ffea
 }
 
 .art-contact-form .art-input.art-active+label, .art-contact-form .art-input:focus+label {
-  background: #FFC107;
+  background: #07ffea;
 }
 
 .art-pagination .art-pagination-center a.art-active-pag {
-  color: #FFC107
+  color: #07ffea
 }
 
 .art-preloader-load path:last-child {
-  stroke: #FFC107;
+  stroke: #07ffea;
 }
 
 .art-line-progress path:last-child {
-  stroke: #FFC107;
+  stroke: #07ffea;
 }
 
 .art-cirkle-progress path:last-child {
-  stroke: #FFC107;
+  stroke: #07ffea;
 }

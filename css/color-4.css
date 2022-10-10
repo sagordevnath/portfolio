@@ -1,13 +1,13 @@
 
 .art-link.art-color-link {
-  color: #64B5F6
+  color: #472329;
 }
 
 .art-link.art-color-link:hover {
   color: #64B5F6;
 }
 .art-btn {
-  background: #64B5F6;
+  background: #472329;
 }
 
 blockquote {
@@ -79,33 +79,33 @@ blockquote {
 }
 
 .art-timeline .art-timeline-item .art-timeline-mark {
-  border: solid 3px #64B5F6;
+  border: solid 3px #472329;
 }
 
 .art-form-field textarea.art-active {
-  border-color: #64B5F6;
+  border-color: #472329;
 }
 
 .art-form-field textarea:focus {
-  border-color: #64B5F6
+  border-color: #472329
 }
 
 .art-contact-form .art-input.art-active+label, .art-contact-form .art-input:focus+label {
-  background: #64B5F6;
+  background: #472329;
 }
 
 .art-pagination .art-pagination-center a.art-active-pag {
-  color: #07ffea
+  color: #472329
 }
 
 .art-preloader-load path:last-child {
-  stroke: #64B5F6;
+  stroke: #472329;
 }
 
 .art-line-progress path:last-child {
-  stroke: #64B5F6;
+  stroke: #472329;
 }
 
 .art-cirkle-progress path:last-child {
-  stroke: #64B5F6;
+  stroke: #472329;
 }

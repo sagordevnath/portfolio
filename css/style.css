@@ -2742,7 +2742,7 @@ burger button
           transform: translate(0px, -5px) rotate(-90deg);
 }
 .art-menu-bar-btn:hover span, .art-menu-bar-btn:hover span:after, .art-menu-bar-btn:hover span:before {
-  background: #1d1d3e;
+  background: #c32741;
 }
 
 /* ------------------------------

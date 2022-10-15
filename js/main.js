@@ -298,11 +298,13 @@ $(function() {
 
   // slider testimonials
   var swiper = new Swiper('.art-testimonial-slider', {
-    slidesPerView: 3,
+    slidesPerView: 4,
     spaceBetween: 30,
-    speed: 1400,
-    autoplay: false,
-    autoplaySpeed: 5000,
+    speed: 2000,
+    autoplay: {
+      delay: 6000,
+    },
+    autoplaySpeed: 6000,
     pagination: {
       el: '.swiper-pagination',
       clickable: true,
